@@ -15,8 +15,8 @@
 ابتدا مخزن پروژه را کلون کنید:
 
 ```bash
-git clone <URL-مخزن-شما>
-cd <نام-پوشه-مخزن>
+git clone https://github.com/bhamidian/doctor-appointment.git
+cd doctor-appointment
 ```
 
 ### 2. ساخت ایمیج داکر
